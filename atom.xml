@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Carlos Ferreras</title>
- <link href="https://carlosferreras.com/atom.xml" rel="self"/>
- <link href="https://carlosferreras.com/"/>
- <updated>2021-01-04T04:19:52+01:00</updated>
- <id>https://carlosferreras.com</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2021-01-04T04:22:48+01:00</updated>
+ <id></id>
  <author>
    <name>Carlos Ferreras</name>
    <email></email>
