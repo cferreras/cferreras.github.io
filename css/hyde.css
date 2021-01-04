@@ -260,7 +260,7 @@ a.sidebar-nav-item:focus {
 }
 
 .printable {
-  visibility: hidden;
+  display: none;
   color: rgba(255,255,255,.5) ;
 }
 
@@ -269,7 +269,7 @@ a.sidebar-nav-item:focus {
 
 @media print {
   .printable {
-     visibility: visible;
+     display: inline;
   }
 
 
