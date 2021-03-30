@@ -89,9 +89,9 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 3.25rem;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 /* Sidebar nav */
@@ -272,5 +272,11 @@ a.sidebar-nav-item:focus {
 @media print {
   .printable {
      display: inline;
+  }
+}
+
+@media print {
+  .footer {
+    display: none;
   }
 }
